@@ -1,0 +1,6 @@
+Weather stats for 
+-------------------------------------------------------------
+Current temperature is 
+Current weather desc is :
+Current Humidity        :
+Current wind speed      :
